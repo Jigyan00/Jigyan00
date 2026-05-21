@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jignyashu</h1>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jigyan00&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 <h3 align="center">
 Mechanical Engineer | AI Enthusiast | Product Design | ML
 </h3>
