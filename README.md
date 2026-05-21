@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jignyashu</h1>
+<h1 align="center">Hi 👋, I'm Jignyashu Sekhar Sahu</h1>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Jigyan00&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
@@ -35,7 +35,7 @@ Industrial Designer| AI Enthusiast | Product Design | ML Engineer
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,SQL,git,github,blender" />
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,git,github,blender" />
 
 </p>
 
