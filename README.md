@@ -35,7 +35,7 @@ Industrial Designer| AI Enthusiast | Product Design | ML Engineer
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,git,github,blender" />
+<img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,SQL,git,github,blender" />
 
 </p>
 
