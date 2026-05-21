@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jignyashu</h1>
 
-<!--
-**Jigyan00/Jigyan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Mechanical Engineer | AI Enthusiast | Product Design | ML
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Final year student at NIT Rourkela
+- 🤖 Interested in AI + Product Design
+- 🛠 Working on HCI Drone System for Crop Monitoring
+- 🦐 Built a Prawn Singulation Mechanism
+- 🌱 Learning Machine Learning and Data Analytics
+
+---
+
+### Connect with me:
+
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+### Skills
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,git,github,blender,figma" />
+
+</p>
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jigyan00&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jigyan00&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyan00&layout=compact&theme=tokyonight)
