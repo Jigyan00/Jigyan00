@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jigyan00&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 <h3 align="center">
-Mechanical Engineer | AI Enthusiast | Product Design | ML
+Industrial Designer| AI Enthusiast | Product Design | ML Engineer
 </h3>
 
 ---
@@ -12,8 +12,6 @@ Mechanical Engineer | AI Enthusiast | Product Design | ML
 
 - 🎓 Final year student at NIT Rourkela
 - 🤖 Interested in AI + Product Design
-- 🛠 Working on HCI Drone System for Crop Monitoring
-- 🦐 Built a Prawn Singulation Mechanism
 - 🌱 Learning Machine Learning and Data Analytics
 
 ---
